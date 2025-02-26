@@ -11,3 +11,4 @@ Para dar um commit nos arquivos adicionados:
 `git commit -a -m "primeiro commit"`
 >`-a` (adicionar os arquivos no commit)
 >`-m` (adicionar mensagem ao commit)
+
