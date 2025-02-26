@@ -12,3 +12,6 @@ Para dar um commit nos arquivos adicionados:
 >`-a` (adicionar os arquivos no commit)
 >`-m` (adicionar mensagem ao commit)
 
+
+a
+
