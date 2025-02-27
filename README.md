@@ -37,3 +37,9 @@ Para mudar para um outro branch:
 
 Para pegar a alteração de uma outra branch e colocar na principal(local):
 `git merge NovaBranch`
+
+Para puxar as alterações do repositório externo para o local:
+`git pull`
+
+Para clonar um projeto para uma pasta:
+`git clone https://....git testeclone`
