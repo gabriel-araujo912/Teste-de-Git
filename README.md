@@ -49,3 +49,6 @@ Para excluir um arquivo untracked:
 
 Para voltar uma alteração em algum arquivo expecífico para o ultimo commit(local):
 `git checkout ./arquivo`
+
+Para ver no terminal o histórico dos commits:
+`git log`
