@@ -31,3 +31,6 @@ Para criar e trabalhar com uma nova Branch:
 `git checkout -b "teste"`
 Para criar uma branch no repositório remoto tbm:
 `git push --set-upstream origin NovaBranch `
+
+Para mudar para um outro branch:
+`git checkout main`
