@@ -43,3 +43,9 @@ Para puxar as alterações do repositório externo para o local:
 
 Para clonar um projeto para uma pasta:
 `git clone https://....git testeclone`
+
+Para excluir um arquivo untracked:
+`git clean -f`
+
+Para voltar uma alteração em algum arquivo expecífico para o ultimo commit(local):
+`git checkout ./arquivo`
