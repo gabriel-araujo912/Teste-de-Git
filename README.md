@@ -28,6 +28,6 @@ Para colocar o token:
 > Depois só colar ela como Password no terminal
 
 Para criar e trabalhar com uma nova Branch:
-`git checkout -b "teste"
+`git checkout -b "teste"`
 Para criar uma branch no repositório remoto tbm:
-`git push --set-upstream origin NovaBranch
+`git push --set-upstream origin NovaBranch `
