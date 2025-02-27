@@ -34,3 +34,6 @@ Para criar uma branch no repositório remoto tbm:
 
 Para mudar para um outro branch:
 `git checkout main`
+
+Para pegar a alteração de uma outra branch e colocar na principal(local):
+`git merge NovaBranch`
